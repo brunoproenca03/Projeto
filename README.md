@@ -19,7 +19,7 @@ O desperdício de água nos sistemas de medição representa um desafio crescent
 - **Internet das Coisas (IoT)**
 - **Cloud Computing**
 - **Machine Learning (para análise preditiva)**
-- **Python e plataformas de visualização de dashboards**
+- **Plataformas de visualização de dashboards(PowerBI)**
 
 ## 🧪 Protótipo
 
@@ -28,45 +28,15 @@ O protótipo desenvolvido permite:
 - Medição de consumo em tempo real
 - Monitorização da pressão e fluxo
 - Deteção de fugas
-- Visualização via dashboard (mockup incluído no relatório)
+- Visualização via dashboard (mockup incluído no relatório do que pretende fazer pode ser alterado)
 
 ## 🚀 Como Executar
 
 > O código e os componentes do protótipo devem ser adicionados a este repositório caso estejam disponíveis.
 
-**Passos sugeridos:**
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio
-
-# Navegue até ao diretório
-cd nome-do-repositorio
-
-# (Opcional) Instale as dependências
-pip install -r requirements.txt
-
-# (Exemplo) Execute o sistema de monitorização
-python monitorizacao.py
-```
-
 ## 📊 Resultados
 
 A implementação inicial demonstrou que a utilização de NB-IoT é viável em Castelo Branco. A arquitetura proposta contribui para uma redução significativa nas chamadas "águas não faturadas" (ANF), ajudando na eficiência energética e financeira do sistema de abastecimento.
-
-## 🏗 Estrutura do Projeto
-
-```
-📁 prototipo/
-   ├── sensores/
-   ├── dashboard/
-   └── documentos/
-
-📁 docs/
-   └── relatorio_final.pdf
-
-README.md
-```
 
 ## 👤 Autores
 
@@ -76,7 +46,3 @@ README.md
 ## 📜 Licença
 
 Este projeto é académico e os direitos pertencem aos autores e à instituição de ensino. Para mais informações, contacte os autores.
-
----
-
-> 📎 O relatório completo encontra-se na pasta `docs/`.
