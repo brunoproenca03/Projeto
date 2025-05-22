@@ -1,6 +1,6 @@
 # 💧 Monitorização Remota de uma Instalação Experimental de Controlo de Água
 
-Este projeto foi desenvolvido no âmbito do Projeto I da Licenciatura em Engenharia Informática no Instituto Politécnico de Castelo Branco, em parceria com os Serviços Municipalizados de Castelo Branco. O foco é modernizar a medição e gestão de água, utilizando tecnologias como IoT, NB-IoT e medição inteligente.
+Este projeto foi desenvolvido no âmbito do Projeto I da Licenciatura em Engenharia Informática no Instituto Politécnico de Castelo Branco, em parceria com os Serviços Municipalizados de Castelo Branco. O foco é modernizar a medição e gestão de água, utilizando tecnologias IoT, NB-IoT e ou LTE-M.
 
 ## 🧠 Resumo
 
